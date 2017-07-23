@@ -1,6 +1,4 @@
-# diehard-dot-fund-api
-
-diehard.fund api:
+# Diehard.Fund API
 
 # Elements:
 * Designer
